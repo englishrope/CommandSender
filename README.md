@@ -1,0 +1,5 @@
+# CommandSender
+改変自由です。同一ディレクトリにlabo.xlsmが必要です。
+動かすのにpython環境が必要です。Anaconda等をインストールして環境を構築してください。
+PySimpleGUIを使用しています。Anacondaプロンプトで以下のコマンドを打ち込みインストールしておいてください。
+conda install -c conda-forge PySimpleGUI
